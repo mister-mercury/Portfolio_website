@@ -258,7 +258,7 @@ section .container .owl-nav{
 
 .owl-nav .owl-prev .owl-nav-prev,
 .owl-nav .owl-next .owl-nav-next{
-    color: white;
+    color: #0e0e0f;
     background: transparent;
     font-size: 2rem;
 }
